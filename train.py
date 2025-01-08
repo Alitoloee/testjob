@@ -8,7 +8,7 @@ def run_training_job():
         # Replace this with your actual training script or command.
         result = np.array([1, 1]) + np.array([2, 3])
         
-        print(f"Training job output: {result}")
+        print(result)
         return result 
         
     except:
